@@ -1,6 +1,7 @@
 # Gallery Project 2
 
 A Responsive Gallery made using HTML, CSS &amp; JavaScript. This Project Uses Concept Of Object Oriented Programming
+
 The gallery is made Rotational type, that means at the end of the images of a particular section, the next button will lead to the first image & previous button at the start will lead to last image of the gallery section.
 
 OOP Concept lets creation of multiple of counters with just a single class, constructor and prototype functions.
